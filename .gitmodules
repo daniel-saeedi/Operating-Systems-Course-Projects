@@ -1,3 +1,6 @@
 [submodule "CA1"]
 	path = CA1
 	url = https://github.com/kalhorghazal/Messenger-System
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/kalhorghazal/Game-Search
